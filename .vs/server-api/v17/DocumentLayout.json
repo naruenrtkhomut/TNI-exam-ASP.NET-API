@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Project\\server\\server-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFCB53B-6E3B-475C-8452-DEEE87DFB37F}|server-api.csproj|c:\\project\\server\\server-api\\controllers\\allproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFCB53B-6E3B-475C-8452-DEEE87DFB37F}|server-api.csproj|solutionrelative:controllers\\allproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AFCB53B-6E3B-475C-8452-DEEE87DFB37F}|server-api.csproj|c:\\project\\server\\server-api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AFCB53B-6E3B-475C-8452-DEEE87DFB37F}|server-api.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Project\\server\\server-api\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Project\\server\\server-api\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:01:38.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AllProductController.cs",
+              "DocumentMoniker": "C:\\Project\\server\\server-api\\Controllers\\AllProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AllProductController.cs",
+              "ToolTip": "C:\\Project\\server\\server-api\\Controllers\\AllProductController.cs",
+              "RelativeToolTip": "Controllers\\AllProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:58:47.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
